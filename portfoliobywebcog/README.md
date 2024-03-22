@@ -1,20 +1,33 @@
-![Watch Now](./img/Design.jpg)
-# One page Portfolio Website (HTML CSS Project)
-**Watch on YouTube ![YouTube Video Views](https://img.shields.io/youtube/views/ZFQkb26UD1Y?style=social) : https://youtu.be/ZFQkb26UD1Y**
+# Portfolio Website
 
----
+This is my portfolio website showcasing my work, skills, and experiences as an Electrical Engineer with passion in software development.
 
-### Made with ❤️ by [Shaif Arfan](https://www.instagram.com/shaifarfan08/)
+## Overview
 
-Like my works and want to support me?
+My portfolio website introduces visitors to who I am, my background, projects, services, and contact information.
 
-<a href="https://www.buymeacoffee.com/shaifarfan08" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 45px !important;width: 162.75px !important;" ></a>
+## Features
 
----
+- Homepage introducing myself and providing links to other sections.
+- About Me section detailing my background, skills, and interests.
+- Projects section showcasing my portfolio with descriptions and links.
+- Services section describing the services I offer.
+- Contact section displaying my contact information.
 
-## Other projects
+## Setup Instructions
 
-📚 [All Web Cifar Project Tutorials](https://github.com/ShaifArfan/wc-project-tutorials)
-  
+To run this project locally:
 
+1. Clone the repository: `git clone https://github.com/your-username/portfolio-website.git`
+2. Navigate to the project directory: `cd portfolio-website`
+3. Open `index.html` in your web browser.
+
+## Contributing
+
+Contributions are welcome! Submit a pull request or open an issue for any improvements.
+
+
+## Contact
+
+Email: josephmbugua968@gmail.com
 
